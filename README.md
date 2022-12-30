@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Pedro Henrique}!</strong>
+## 💜 Olá, meu nome é <strong>Pedro Henrique!</strong>
 
 💬 Estou em desenvolvimento na área, estou melhorando e aprendendo todos os dias.
 
