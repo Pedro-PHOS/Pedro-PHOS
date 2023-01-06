@@ -2,6 +2,8 @@
 
 💬 Estou em desenvolvimento na área, estou melhorando e aprendendo todos os dias.
 
+Meu Portifólio: https://portifolio-theta-dun.vercel.app.
+
 ----
 
 <div align="center">
