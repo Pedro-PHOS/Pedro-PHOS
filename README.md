@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é <strong>Pedro Henrique.</strong>
 
-💬 Estou em desenvolvimento na área, estou melhorando e aprendendo todos os dias.
+💬 Estou em desenvolvimento na área, cada dia melhorando e aprimorando meu conhecimentos.
 
 ----
 
