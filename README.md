@@ -1,6 +1,6 @@
-## 👋 Olá, meu nome é <strong>Pedro Henrique.</strong>
+## 👋 Olá! Meu nome é <strong>Pedro Henrique</strong> e sou apaixonado por desenvolvimento de websites.
 
-💬 Estou em desenvolvimento na área, cada dia melhorando e aprimorando meu conhecimentos.
+💬 Desde que comecei a ter conhecimento sobre a área, tenho me dedicado a aprender tudo o que posso sobre as últimas tecnologias e tendências. <br>Recentemente, terminei um curso online sobre programação em JavaScript e estou ansioso por aplicar esses conhecimentos em projetos futuros. <br>Meu objetivo é tornar-me um desenvolvedor web experiente e criar sites de alta qualidade que ajudem as pessoas a se conectarem e se comunicarem de maneiras novas e interessantes.
 
 ----
 
