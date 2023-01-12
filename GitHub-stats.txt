@@ -1,6 +1,16 @@
+Enquanto o Github stats não volta, deixo anotado o codigo:
+
 ## 👋 Olá! Meu nome é <strong>Pedro Henrique</strong> e sou apaixonado por desenvolvimento de websites.
 
 💬 Desde que comecei a ter conhecimento sobre a área, tenho me dedicado a aprender tudo o que posso sobre as últimas tecnologias e tendências. <br>Recentemente, terminei um curso online sobre programação em JavaScript e estou ansioso por aplicar esses conhecimentos em projetos futuros. <br>Meu objetivo é tornar-me um desenvolvedor web experiente e criar sites de alta qualidade que ajudem as pessoas a se conectarem e se comunicarem de maneiras novas e interessantes.
+
+----
+
+<div align="center">
+  <a href="https://github.com/Pedro-PHOS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-PHOS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-PHOS&layout=compact&langs_count=7&theme=dracula"/>
+</div>
         
 ----
 
